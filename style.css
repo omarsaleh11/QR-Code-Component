@@ -46,6 +46,7 @@ body {
   padding: 20px;
   text-rendering: optimizeSpeed;
   line-height: 1.2;
+ overflow:hidden;
 }
 
 /* A elements that don't have a class get default styles */
